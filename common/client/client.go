@@ -363,7 +363,7 @@ curl -X POST https://cvm.ap-guangzhou.tencentcloudapi.com
  -H "Authorization: TC3-HMAC-SHA256 Credential=xxxxxxxxxxxxxxxxxxxxxxxxxxxx/2020-12-04/cvm/tc3_request, SignedHeaders=content-type;host, Signature=f64dd58bf6f695bbcebc9cac6add02ee79f15854a3fd99a2840ed7c470d774c2"
  -H "Content-Type: application/json"
  -H "Host: cvm.ap-guangzhou.tencentcloudapi.com"
- -H "X-TC-Action: DescribeInstances"xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ -H "X-TC-Action: DescribeInstances"
  -H "X-TC-Timestamp: 1607056961"
  -H "X-TC-Version: 2017-03-12"
  -H "X-TC-Region: ap-guangzhou"
